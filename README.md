@@ -1,4 +1,4 @@
 # 06-24                               
-date of first day<br>
-nothing is impossible.<br>
+date of first day
+nothing is impossible
 nothing is permnent
